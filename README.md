@@ -3,7 +3,7 @@
 | -------------  |--------------------------------|
 | Nome        | **Desafio Controle de fluxo**  
 | Tecnologias | Java, Intellij                 
-| URL         | https://github.com/Thamyresmya 
+| URL         | https://github.com/Thamyresmya/Desafio2_Santander_Dio-Controle-de-fluxo
 
 
 ![](geral/Capa.jpg)
@@ -52,7 +52,7 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 
 ## 📁 Acesso ao projeto
 
-É possível acessar o código através do [Link](https://github.com/Thamyresmya/)
+É possível acessar o código através do [Link](https://github.com/Thamyresmya/Desafio2_Santander_Dio-Controle-de-fluxo)
 
 Neste repositório você tem acesso a todo o material desenvolvido.
 
